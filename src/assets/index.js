@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import logo from "./logo.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -24,11 +24,18 @@ import threejs from "./tech/threejs.svg";
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
+import fullstack from "./company/nodejs.png";
 import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
+import flyexpo from "./flyexpo.png";
+import doctor from"./doctor.png";
+import chatapp from "./chatapp.png"
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import dikshit from "./dikshit.jpeg";
+import javad from "./javad.jpeg";
+import saheer from "./saheer.jpeg";
 
 export {
   logo,
@@ -59,4 +66,11 @@ export {
   carrent,
   jobit,
   tripguide,
+  fullstack,
+  flyexpo,
+  doctor,
+  chatapp,
+  dikshit,
+  javad,
+  saheer
 };
